@@ -1,0 +1,19 @@
+{
+  "name": "starterkit",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "fbjs": "^0.8.3",
+    "react": "^15.0.2",
+    "react-native": "^0.26.2",
+    "react-native-navigation": "^1.0.5",
+    "react-native-vector-icons": "^2.0.3",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-thunk": "^2.1.0",
+    "seamless-immutable": "^6.1.0"
+  }
+}
